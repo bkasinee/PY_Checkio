@@ -1,1 +1,1 @@
-# Keep all solved codes from py.checkio.com
+# Keep all codes from py.checkio.com
